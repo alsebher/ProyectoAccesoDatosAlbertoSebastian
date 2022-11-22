@@ -1,0 +1,5 @@
+1|Alberto|Sebastian|c/Oca|alsebher@gmail.com|3f450a984dad82af0bd0f3db4b91b651|678.89|600600600|28001|2022-11-18
+2|Anibal|Prieto|c/Pelicano|anibal@gmail.com|5976a88a98a5cd7962c944756301873f|7890.9|601601601|28002|2022-11-17
+3|Elias|Alconz|c/Gaviota|elias@gmail.com|17b9eed92540d6ba6a07a5d4828bf17e|19678.45|602602602|28003|2022-11-18
+4|Ruben|Nuno|c/Tortola|ruben@gmail.com|f0021c7cb64b8dabb12e7a2f85d188c8|34.56|603603603|28004|2022-11-18
+5|Hugo|De Tomas|c/Tucan|hugo@gmail.com|e6bd11bac49592c04063e5c435733ca6|234.0|605605605|28011|2022-11-19

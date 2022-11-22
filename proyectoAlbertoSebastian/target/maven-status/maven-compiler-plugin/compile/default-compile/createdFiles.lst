@@ -1,0 +1,15 @@
+dominio\Usuario.class
+dominio\Producto.class
+dominio\UsuarioDao.class
+dominio\Compra.class
+dominio\Reseña.class
+ficheros\Archivos.class
+dominio\ProductoDao.class
+dominio\MarcaDao.class
+dominio\ReseñaDao.class
+dominio\Categoria.class
+dominio\CompraDao.class
+datos\Conexion.class
+com\ceep\principal\Principal.class
+dominio\CategoriaDao.class
+dominio\Marca.class
